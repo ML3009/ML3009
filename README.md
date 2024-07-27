@@ -11,7 +11,7 @@
 
 **📌 My Pinned Project** 
 
-- 🏓 The ft_transcendence project was built using : 
+- 🏓 The ft_transcendence project was built using the following technologies: 
 
 <div align="center">
   <p>
@@ -25,7 +25,7 @@
 
  
 
-- 🕹️ The Cub3d project was built using : 
+- 🕹️ The Cub3d project was built using the following technologies: 
 
  <div align="center">
   <p>
@@ -35,7 +35,7 @@
 
 
 
-- 💬 The ft_irc project was built using :
+- 💬 The ft_irc project was built using the following technologies:
 
  <div align="center">
   <p>
