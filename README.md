@@ -30,7 +30,7 @@
 <!--END_SECTION:waka-->
 
 
-<div align="center">
+
 
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 
@@ -46,5 +46,5 @@
 
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
 
-</div>
+
 
