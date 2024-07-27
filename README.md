@@ -31,7 +31,7 @@
 
 **📌 My Pinned Project** 
 
-🏓 In ft_transcendence I mostly code in : 
+> 🏓 In ft_transcendence I mostly code in : 
 
 <div align="center">
   <p>
@@ -43,7 +43,9 @@
   </p>
 </div>
 
-🕹️ In Cub3d I code in : 
+ >
+
+> 🕹️ In Cub3d I code in : 
 
 <div align="center">
   <p>
@@ -51,13 +53,17 @@
    </p>
 </div>
 
-💬 In ft_irc I code in :
+>
+
+> 💬 In ft_irc I code in :
 
 <div align="center">
   <p>
     <img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
   </p>
 </div>
+
+>
 
 
 
