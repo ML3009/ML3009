@@ -11,7 +11,7 @@
 
 **📌 My Pinned Project** 
 
-- 🏓 In ft_transcendence I code in : 
+- 🏓 In the ft_transcendence project I using : 
 
 <div align="center">
   <p>
@@ -25,7 +25,7 @@
 
  
 
-- 🕹️ In Cub3d I code in : 
+- 🕹️ In the Cub3d project I using : 
 
  <div align="center">
   <p>
@@ -35,7 +35,7 @@
 
 
 
-- 💬 In ft_irc I code in :
+- 💬 In the ft_irc project I using :
 
  <div align="center">
   <p>
