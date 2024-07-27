@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there I'm Marie-Laure👋
 
-<!--
-**ML3009/ML3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👩‍🎓 I'm a student at school 42.
+- 🔭 I’m currently working on dating website.
+- 🌱 I’m currently learning React and Nodejs.
+- 🔍 I’m currently looking for a 6-month internship starting from September 2024       as a Frontend Developer.
+- 💬 Ask me about Javascript, Python, Django and API REST.
+- ⚡ Fun fact: I am a big fan of the video game Assassin's Creed. 🥷🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+ 
+ 
+
