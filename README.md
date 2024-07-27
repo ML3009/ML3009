@@ -11,7 +11,7 @@
 
 **📌 My Pinned Project** 
 
-- 🏓 In ft_transcendence I mostly code in : 
+- 🏓 In ft_transcendence I code in : 
 
 <div align="center">
   <p>
