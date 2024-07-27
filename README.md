@@ -33,7 +33,7 @@
 
 > 🏓 In ft_transcendence I mostly code in : 
 
-<div align="center">
+> <div align="center">
   <p>
     <img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
     <img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
@@ -47,7 +47,7 @@
 
 > 🕹️ In Cub3d I code in : 
 
-<div align="center">
+> <div align="center">
   <p>
     <img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
    </p>
@@ -57,7 +57,7 @@
 
 > 💬 In ft_irc I code in :
 
-<div align="center">
+> <div align="center">
   <p>
     <img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
   </p>
