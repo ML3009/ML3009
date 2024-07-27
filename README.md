@@ -2,9 +2,9 @@
 
 
 - 👩‍🎓 I'm a student at School 42.
-- 🔭 I’m currently working on a dating website.
-- 🌱 I’m learning React and Nodejs.
-- 🔍 I’m looking for a 6-month internship starting from September 2024       as a Frontend Developer.
+- 🔭 Currently working on a dating website.
+- 🌱 Learning React and Nodejs.
+- 🔍 Looking for a 6-month internship starting from September 2024       as a Frontend Developer.
 - 💬 Ask me about JavaScript, Python, Django and REST APIs.
 - ⚡ Fun fact: I am a big fan of the video game Assassin's Creed. 🥷🏻
 
