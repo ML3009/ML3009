@@ -1,17 +1,17 @@
 ## Hi there I'm Marie-Laure👋
 
 
-- 👩‍🎓 I'm a student at school 42.
-- 🔭 I’m currently working on dating website.
+- 👩‍🎓 I'm a student at School 42.
+- 🔭 I’m currently working on a dating website.
 - 🌱 I’m learning React and Nodejs.
 - 🔍 I’m looking for a 6-month internship starting from September 2024       as a Frontend Developer.
-- 💬 Ask me about Javascript, Python, Django and API REST.
+- 💬 Ask me about JavaScript, Python, Django and REST APIs.
 - ⚡ Fun fact: I am a big fan of the video game Assassin's Creed. 🥷🏻
 
 
 **📌 My Pinned Project** 
 
-- 🏓 In the ft_transcendence project I using : 
+- 🏓 In the ft_transcendence project I am using : 
 
 <div align="center">
   <p>
@@ -25,7 +25,7 @@
 
  
 
-- 🕹️ In the Cub3d project I using : 
+- 🕹️ In the Cub3d project I am using : 
 
  <div align="center">
   <p>
@@ -35,7 +35,7 @@
 
 
 
-- 💬 In the ft_irc project I using :
+- 💬 In the ft_irc project I am using :
 
  <div align="center">
   <p>
