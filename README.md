@@ -13,8 +13,6 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 85.5 kB Used in GitHub's Storage 
- > 
 > 🏆 195 Contributions in the Year 2024
  > 
 > 📜 10 Public Repositories 
@@ -41,10 +39,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/ML3009/ML3009/main/assets/bar_graph.png)
 
 
  Last Updated on 27/07/2024 07:01:02 UTC
