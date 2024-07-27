@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I am a big fan of the video game Assassin's Creed. 🥷🏻
 
 
-**📌 My Pinned Project** 
+**📌 My Pinned Projects** 
 
 - 🏓 The ft_transcendence project was built using the following technologies: 
 
