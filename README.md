@@ -11,7 +11,7 @@
 
 **📌 My Pinned Project** 
 
-- 🏓 In the ft_transcendence project I am using : 
+- 🏓 The ft_transcendence project was built using : 
 
 <div align="center">
   <p>
@@ -25,7 +25,7 @@
 
  
 
-- 🕹️ In the Cub3d project I am using : 
+- 🕹️ The Cub3d project was built using : 
 
  <div align="center">
   <p>
@@ -35,7 +35,7 @@
 
 
 
-- 💬 In the ft_irc project I am using :
+- 💬 The ft_irc project was built using :
 
  <div align="center">
   <p>
