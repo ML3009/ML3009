@@ -54,13 +54,6 @@
 
 <!--START_SECTION:waka-->
 
-**🐱 My GitHub Data** 
-
-> 📜 10 Public Repositories 
- > 
-> 🔑 12 Private Repositories 
- >
-
 **I'm an Early 🐤** 
 
 ```text
