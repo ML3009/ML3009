@@ -3,7 +3,7 @@
 
 - 👩‍🎓 I'm a student at School 42.
 - 🔭 Currently working on a dating website.
-- 🌱 Learning React and Nodejs.
+- 🌱 Learning React and Node.js.
 - 🔍 Looking for a 6-month internship starting from September 2024       as a Frontend Developer.
 - 💬 Ask me about JavaScript, Python, Django and REST APIs.
 
