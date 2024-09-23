@@ -4,7 +4,7 @@
 - 👩‍🎓 I'm a student at School 42.
 - 🔭 Currently working on a dating website.
 - 🌱 Learning React and Node.js.
-- 🔍 Looking for a 6-month internship starting from September 2024       as a Software Engineer.
+- 🔍 Looking for a 15-month apprenticeship starting from October/November 2024 or a 6-month internship starting from October 2024 as a Software Engineer.
 - 💬 Ask me about JavaScript, Python and Django.
 
 
