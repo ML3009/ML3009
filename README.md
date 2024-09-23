@@ -5,7 +5,7 @@
 - 🔭 Currently working on a dating website.
 - 🌱 Learning React and Node.js.
 - 🔍 Looking for a 15-month apprenticeship starting from October/November 2024 or a 6-month internship starting from October 2024 as a Software Engineer.
-- 💬 Ask me about JavaScript, Python and Django.
+- 💬 Ask me about JavaScript, React, Python and Django.
 
 
 **📌 My Pinned Projects** 
