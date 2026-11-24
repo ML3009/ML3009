@@ -1,6 +1,5 @@
 
 
-**I'm an Early 🐤** 
 
 ```text
 🌞 Morning                498 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
